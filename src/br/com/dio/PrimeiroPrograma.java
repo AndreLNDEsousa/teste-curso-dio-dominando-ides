@@ -6,7 +6,7 @@ public class PrimeiroPrograma {
 
 	public static void main(String[] args) {
 
-		Gato gato = new Gato(null, null, null);
+		Gato gato = new Gato(null, null, null); //gerou um erro e tive que colocar como nulo os dados da class Gato
 		System.out.println(gato);
 		
 		Livro livro = new Livro();
