@@ -12,10 +12,7 @@ public class PrimeiroPrograma {
 		Livro livro = new Livro();
         System.out.println(livro);
 
-		/*
-		 * int a=3; int b=2; System.out.println("olá mundo"+ "\n" + (a+b));
-		 */
-
+		
 	}
 
 }
